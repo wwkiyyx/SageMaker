@@ -35,3 +35,10 @@ SageMaker Studio Lab project
  - conda activate xxx
  - conda install 
  - 等同于 pip 加 virtualenv 
+ 
+## 另外的空间
+
+ - /dev/nvme0n1p1   50G   14G   37G  28% /opt/.sagemakerinternal
+ - /opt/.sagemakerinternal/default/wwk
+ - ngrok-stable-linux-amd64.tgz
+ - 无法使用，重启丢失
