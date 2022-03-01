@@ -31,11 +31,12 @@ https://studiolab.sagemaker.aws/
  - conda -V
  - conda list
  - conda deactivate 退出studiolab环境
- - conda env list (studiolab装了 tensorflow gpu 和 torch)
+ - conda env list (studiolab 和 default 都装了 tensorflow gpu 和 torch)
  - conda create xxx
  - conda activate xxx
  - conda install 
  - 等同于 pip 加 virtualenv 
+ - notebook的环境是default，terminal的环境是studiolab
  
 ## 另外的空间
 
