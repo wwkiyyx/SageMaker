@@ -1,6 +1,7 @@
 # SageMaker
 
-SageMaker Studio Lab project
+SageMaker Studio Lab project     
+https://studiolab.sagemaker.aws/         
 
 ## CPU环境  
 
