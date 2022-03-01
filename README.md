@@ -43,3 +43,4 @@ https://studiolab.sagemaker.aws/
  - /opt/.sagemakerinternal/default/wwk
  - ngrok-stable-linux-amd64.tgz
  - 无法使用，重启丢失
+ - 测试token
