@@ -1,7 +1,7 @@
 # SageMaker
 
-SageMaker Studio Lab project     
-https://studiolab.sagemaker.aws/         
+ - SageMaker Studio Lab project     
+ - https://studiolab.sagemaker.aws/         
 
 ## CPU环境  
 
@@ -45,3 +45,4 @@ https://studiolab.sagemaker.aws/
  - ngrok-stable-linux-amd64.tgz
  - 无法使用，重启丢失
  - 测试token
+ - GPU无法使用
