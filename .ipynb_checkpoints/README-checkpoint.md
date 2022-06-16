@@ -45,4 +45,5 @@
  - ngrok-stable-linux-amd64.tgz
  - 无法使用，重启丢失
  - 测试token
- - GPU无法使用
+ - GPU 可以使用 每次4小时 一天两次
+ - 没有ssh
