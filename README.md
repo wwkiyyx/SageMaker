@@ -14,8 +14,8 @@
  - apt list: apt、gcc、g++、git、wget、unzip、tar、make、dpkg，无root权限安装
  - pip正常
  - conda 4.10.3
- - tensorflow gpu 2.7.0
- - pytorch 1.10
+ - tensorflow 2.9.0
+ - pytorch 1.11
  - 目录 /home/studio-lab-user/sagemaker-studiolab-notebooks/SageMaker
  - 空间剩12G /dev/nvme1n1     25G  7.0G   19G  28% /home/studio-lab-user
  
